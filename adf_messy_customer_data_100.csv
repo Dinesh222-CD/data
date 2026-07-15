@@ -1,0 +1,101 @@
+﻿customer_id,full_name,email,city,state,phone,department,salary,join_date,status
+1,  Anil Kumar  ,ANIL.KUMAR1@EXAMPLE.COM,chennai,  Telangana  ,9193349856,  IT  ,55000,02-01-2021,On Leave  
+2,Sneha Patel  ,Sneha.Patel2@example.com  ,Visakhapatnam  ,  Telangana  ,9336696312,  Support  ,60000,19-05-2021,  On Leave
+3,PRIYA DAS,PRIYA.DAS3@EXAMPLE.COM,bengaluru,WEST BENGAL,9485451171,IT,50000,20-05-2021,Inactive
+4,Meena Verma,  Meena.Verma4@example.com,Hyderabad  ,kARNATAKA,9306468299,Support  ,30000,02-11-2022,Inactive  
+5,rAHUL sHARMA,rahul.sharma5@example.com,  Hyderabad,  Karnataka,9497478786,sUPPORT,50000,07-11-2023,inactive
+6,  Anil Joshi  ,anil.joshi6@example.com,chennai,  Tamil Nadu,9335809993,  HR  ,50000,27-01-2022,On Leave  
+7,  Dinesh Singh,,hyderabad,  Maharashtra  ,9524806516,hr,60000,05-05-2022,  On Leave
+8,Sneha Verma  ,SNEHA.VERMA8@EXAMPLE.COM,Delhi  ,TAMIL NADU,9197613238,finance,25000,28-02-2022,  On Leave
+9,Priya Das  ,Priya.Das9@example.com,,  Maharashtra,9112327652,OPERATIONS,30000,22-09-2023,oN lEAVE
+10,KAVYA SHARMA,  Kavya.Sharma10@example.com,  Bengaluru,  Andhra Pradesh  ,9291825997,SUPPORT,30000,28-11-2023,oN lEAVE
+11,vijay joshi,vijay.joshi11@example.com,pUNE,Telangana  ,9448059918,,60000,01-02-2023,Active  
+12,Rahul Patel,rahul.patel12@example.com,Hyderabad,  Delhi,9235034324,Marketing,35000,22-08-2025,oN lEAVE
+13,Priya Naidu  ,pRIYA.nAIDU13@EXAMPLE.COM,delhi,mAHARASHTRA,,  Support  ,55000,22-11-2023,  Active  
+14,  Meena Verma,,chennai,ANDHRA PRADESH,9731832764,IT  ,40000,01-02-2026,on leave
+15,Dinesh Patel,Dinesh.Patel15@example.com,Pune,maharashtra,9678998028,  HR  ,35000,24-10-2025,inactive
+16,mEENA pATEL,  Meena.Patel16@example.com,delhi,Andhra Pradesh,9541417711,  Support,60000,28-12-2021,  Inactive
+17,  Anil Kumar,  Anil.Kumar17@example.com  ,pUNE,West Bengal,9581695135,finance,,14-03-2023,Active  
+18,mEENA pATEL,Meena.Patel18@example.com,,wEST bENGAL,9680451872,Operations,25000,03-04-2022,  Active  
+19,  Arjun Rao,arjun.rao19@example.com,Delhi,,9943026227,  IT,60000,10-07-2026,iNACTIVE
+20,vijay rao,vijay.rao20@example.com,mumbai,Andhra Pradesh  ,9436730606,Support  ,25000,02-10-2024,  Active  
+21,vijay verma,,hYDERABAD,Telangana,9352548261,Operations,55000,04-10-2022,oN lEAVE
+22,Divya Joshi,Divya.Joshi22@example.com  ,  Hyderabad,Delhi  ,9319321646,,50000,08-05-2024,INACTIVE
+23,  Priya Naidu,PRIYA.NAIDU23@EXAMPLE.COM,Hyderabad,Tamil Nadu  ,9328872698,Operations,45000,05-06-2021,
+24,SNEHA SINGH,sneha.singh24@example.com,kOLKATA,  Maharashtra  ,9108399996,HR  ,45000,22-02-2022,On Leave  
+25,Rahul Sharma,  Rahul.Sharma25@example.com  ,BENGALURU,Karnataka  ,9838194420,  Finance  ,45000,17-08-2023,inactive
+26,  Dinesh Sharma  ,  Dinesh.Sharma26@example.com,Mumbai,ANDHRA PRADESH,,marketing,60000,18-12-2024,ON LEAVE
+27,Vijay Kumar,Vijay.Kumar27@example.com,,aNDHRA pRADESH,9561479973,HR  ,35000,02-05-2023,on leave
+28,dinesh singh,,  Chennai  ,ANDHRA PRADESH,9904745462,Marketing  ,35000,08-03-2022,Inactive  
+29,,  Arjun.Kumar29@example.com  ,pUNE,tAMIL nADU,9366467544,sUPPORT,45000,06-12-2021,oN lEAVE
+30,aRJUN kUMAR,  Arjun.Kumar30@example.com,chennai,  West Bengal,9125409494,HR,40000,13-06-2023,active
+31,ANIL NAIDU,  Anil.Naidu31@example.com  ,  Delhi  ,West Bengal  ,9291735734,HR,45000,02-02-2025,ACTIVE
+32,  Arjun Singh  ,aRJUN.sINGH32@EXAMPLE.COM,  Pune,Maharashtra  ,9373506211,  IT,25000,23-07-2021,on leave
+33,  Vijay Verma  ,  Vijay.Verma33@example.com  ,CHENNAI,Tamil Nadu,9812306873,,30000,24-05-2025,ON LEAVE
+34,RAHUL DAS,  Rahul.Das34@example.com,Mumbai  ,telangana,9903303363,  Sales  ,,20-10-2023,  Inactive  
+35,aRJUN vERMA,,MUMBAI,  Telangana,9446012478,Marketing  ,60000,15-08-2026,  On Leave  
+36,  Sneha Verma,sNEHA.vERMA36@EXAMPLE.COM,,ANDHRA PRADESH,9459905654,  Operations  ,30000,27-04-2026,On Leave  
+37,rAHUL pATEL,rahul.patel37@example.com,Bengaluru,andhra pradesh,9545002643,Sales  ,40000,23-12-2024,  Active
+38,meena das,meena.das38@example.com,vISAKHAPATNAM,,9288856883,it,60000,02-09-2022,inactive
+39,anil rao,aNIL.rAO39@EXAMPLE.COM,  Kolkata  ,Maharashtra  ,,OPERATIONS,55000,27-09-2024,Inactive  
+40,  Priya Rao,PRIYA.RAO40@EXAMPLE.COM,cHENNAI,DELHI,9772966010,mARKETING,40000,09-08-2021,  On Leave
+41,RAHUL PATEL,RAHUL.PATEL41@EXAMPLE.COM,Pune  ,andhra pradesh,9264073400,finance,40000,03-07-2024,  Inactive  
+42,  Kavya Verma,,visakhapatnam,  West Bengal,9120972273,sALES,55000,16-01-2023,  On Leave  
+43,rAHUL dAS,rAHUL.dAS43@EXAMPLE.COM,Delhi  ,  Delhi  ,9624232414,oPERATIONS,40000,09-07-2024,on leave
+44,DINESH DAS,  Dinesh.Das44@example.com  ,  Delhi  ,tELANGANA,9128955006,,55000,19-10-2026,On Leave  
+45,  Dinesh Sharma  ,  Dinesh.Sharma45@example.com,,tamil nadu,9327268503,IT,60000,11-06-2024,INACTIVE
+46,RAHUL DAS,rAHUL.dAS46@EXAMPLE.COM,  Hyderabad,  Andhra Pradesh  ,9798086909,Operations,30000,25-11-2021,
+47,dinesh patel,dINESH.pATEL47@EXAMPLE.COM,Visakhapatnam  ,telangana,9705557720,  Finance,40000,15-12-2023,On Leave
+48,Kavya Reddy  ,Kavya.Reddy48@example.com  ,hYDERABAD,west bengal,9434961542,HR,55000,13-12-2022,On Leave
+49,  Anil Joshi  ,,Chennai,dELHI,9964929067,hr,30000,26-10-2021,On Leave  
+50,  Kavya Verma,  Kavya.Verma50@example.com  ,Pune,  Maharashtra  ,9626350075,HR,30000,14-06-2026,iNACTIVE
+51,  Meena Reddy,meena.reddy51@example.com,Mumbai  ,West Bengal  ,9986625773,  Marketing,,11-04-2021,  Inactive
+52,rahul rao,rAHUL.rAO52@EXAMPLE.COM,Kolkata  ,  Maharashtra  ,,SALES,35000,16-04-2023,  Active
+53,RAHUL SINGH,Rahul.Singh53@example.com  ,Mumbai  ,Andhra Pradesh  ,9536398872,Finance,60000,18-04-2026,  Active  
+54,  Meena Rao,mEENA.rAO54@EXAMPLE.COM,,karnataka,9812921644,  Sales  ,50000,16-09-2025,ACTIVE
+55,  Kavya Das  ,Kavya.Das55@example.com  ,PUNE,  Delhi,9229553265,,40000,11-02-2026,inactive
+56,vijay reddy,,KOLKATA,Delhi  ,9207939087,Marketing  ,40000,10-04-2023,ON LEAVE
+57,Priya Naidu,  Priya.Naidu57@example.com  ,BENGALURU,,9784907325,OPERATIONS,60000,04-01-2025,on leave
+58,,  Rahul.Rao58@example.com,pune,ANDHRA PRADESH,9170161976,  Marketing,55000,16-02-2025,aCTIVE
+59,dinesh reddy,dINESH.rEDDY59@EXAMPLE.COM,Mumbai,Telangana,9740086326,oPERATIONS,40000,25-09-2024,Inactive  
+60,MEENA RAO,mEENA.rAO60@EXAMPLE.COM,DELHI,Maharashtra  ,9918982730,IT  ,40000,21-04-2023,On Leave
+61,anil reddy,anil.reddy61@example.com,hyderabad,  Andhra Pradesh,9412737284,  Sales  ,25000,08-05-2026,  On Leave
+62,Rahul Rao,  Rahul.Rao62@example.com  ,CHENNAI,wEST bENGAL,9312406764,Support  ,55000,04-09-2022,oN lEAVE
+63,pRIYA nAIDU,,,tELANGANA,9711181411,HR  ,45000,15-02-2024,oN lEAVE
+64,RAHUL DAS,Rahul.Das64@example.com  ,  Kolkata,Andhra Pradesh  ,9748232591,  IT,45000,01-02-2022,ON LEAVE
+65,Divya Joshi,dIVYA.jOSHI65@EXAMPLE.COM,Mumbai  ,aNDHRA pRADESH,,marketing,60000,09-03-2025,Inactive  
+66,Arjun Rao,  Arjun.Rao66@example.com,  Pune,KARNATAKA,9542000551,,60000,10-11-2024,ACTIVE
+67,  Vijay Kumar,Vijay.Kumar67@example.com,PUNE,Karnataka,9101235946,  Marketing,60000,14-01-2022,oN lEAVE
+68,Vijay Singh  ,vIJAY.sINGH68@EXAMPLE.COM,  Kolkata  ,tAMIL nADU,9240674381,it,,15-12-2024,Inactive  
+69,  Anil Kumar  ,Anil.Kumar69@example.com  ,  Chennai  ,TELANGANA,9200082623,Operations,40000,27-02-2024,
+70,  Anil Reddy,,Mumbai  ,DELHI,9361704064,sALES,60000,18-03-2024,  Inactive
+71,Sneha Joshi  ,  Sneha.Joshi71@example.com  ,bENGALURU,ANDHRA PRADESH,9945805127,mARKETING,45000,27-01-2023,INACTIVE
+72,Rahul Joshi  ,  Rahul.Joshi72@example.com  ,,  Telangana,9692616814,  Operations,55000,15-06-2022,INACTIVE
+73,  Sneha Joshi,sneha.joshi73@example.com,Delhi,  Karnataka  ,9812630453,  Sales  ,35000,16-01-2022,  Inactive
+74,VIJAY JOSHI,vIJAY.jOSHI74@EXAMPLE.COM,hYDERABAD,  West Bengal,9875718152,IT  ,35000,14-11-2022,Inactive
+75,aNIL rAO,ANIL.RAO75@EXAMPLE.COM,Pune  ,  Delhi,9824085842,Support,55000,11-11-2026,iNACTIVE
+76,Meena Verma,Meena.Verma76@example.com  ,hyderabad,,9565973314,hr,30000,25-11-2026,On Leave
+77,anil rao,,Mumbai,ANDHRA PRADESH,9502482554,,55000,05-04-2025,INACTIVE
+78,  Arjun Joshi  ,aRJUN.jOSHI78@EXAMPLE.COM,bengaluru,Telangana,,oPERATIONS,40000,16-10-2022,Inactive  
+79,  Sneha Rao  ,SNEHA.RAO79@EXAMPLE.COM,KOLKATA,Delhi,9686905284,  Marketing,35000,03-08-2023,  Inactive  
+80,  Divya Naidu  ,  Divya.Naidu80@example.com,  Mumbai,WEST BENGAL,9354697684,  Finance,55000,19-06-2025,Inactive
+81,Rahul Naidu,rAHUL.nAIDU81@EXAMPLE.COM,,Andhra Pradesh  ,9751124015,  Marketing  ,60000,27-05-2022,On Leave
+82,divya singh,  Divya.Singh82@example.com  ,Chennai  ,  Karnataka  ,9246865585,  Marketing  ,30000,21-11-2021,  On Leave  
+83,Rahul Rao,Rahul.Rao83@example.com  ,  Pune  ,Telangana,9288592093,HR,40000,05-09-2023,  On Leave
+84,VIJAY VERMA,,BENGALURU,  West Bengal,9463692735,MARKETING,30000,15-02-2022,oN lEAVE
+85,sNEHA dAS,sNEHA.dAS85@EXAMPLE.COM,Pune,  West Bengal,9588322781,IT,,22-12-2026,On Leave
+86,  Rahul Joshi,rAHUL.jOSHI86@EXAMPLE.COM,Pune,delhi,9452194058,Sales,40000,21-02-2026,On Leave  
+87,,  Meena.Naidu87@example.com,hyderabad,Andhra Pradesh,9352114611,  HR,35000,13-08-2023,Active
+88,Vijay Das  ,  Vijay.Das88@example.com  ,  Bengaluru,Delhi,9400368694,,25000,23-06-2022,  On Leave
+89,meena rao,mEENA.rAO89@EXAMPLE.COM,Pune,DELHI,9527499187,  Operations  ,45000,07-02-2024,Inactive
+90,  Anil Patel  ,  Anil.Patel90@example.com  ,,WEST BENGAL,9173669588,finance,40000,19-04-2022,on leave
+91,kAVYA rEDDY,,VISAKHAPATNAM,west bengal,,Finance  ,30000,22-01-2022,iNACTIVE
+92,dINESH sINGH,dINESH.sINGH92@EXAMPLE.COM,Chennai  ,Karnataka,9896413702,FINANCE,55000,17-02-2026,
+93,  Anil Rao,aNIL.rAO93@EXAMPLE.COM,Pune  ,Maharashtra,9146562851,Sales  ,45000,15-11-2021,Active  
+94,dINESH rAO,  Dinesh.Rao94@example.com,  Delhi  ,  Andhra Pradesh,9445864933,  Support,35000,03-03-2023,Active
+95,Divya Joshi  ,  Divya.Joshi95@example.com  ,  Pune,,9561923010,  HR,30000,26-12-2021,On Leave  
+96,  Vijay Patel,  Vijay.Patel96@example.com,  Chennai,kARNATAKA,9202097643,  Sales,50000,14-06-2026,  Inactive  
+97,rahul singh,  Rahul.Singh97@example.com  ,Kolkata,aNDHRA pRADESH,9899496315,IT,50000,26-03-2025,Inactive
+98,Dinesh Joshi  ,,  Pune  ,  Andhra Pradesh,9554124989,hr,25000,10-10-2023,oN lEAVE
+99,Kavya Sharma  ,Kavya.Sharma99@example.com  ,,  Delhi,9697285504,,50000,04-05-2025,ACTIVE
+100,sNEHA dAS,Sneha.Das100@example.com  ,Visakhapatnam  ,dELHI,9393421844,SUPPORT,45000,11-06-2021,active
